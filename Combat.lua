@@ -1,3 +1,4 @@
+-- thegrogster_ on discord, TrapQueenShin on roblox :hearts:
 local CollectionService = game:GetService("CollectionService")
 
 local ClientEffect = game.ReplicatedStorage.Requests.ClientEffect
